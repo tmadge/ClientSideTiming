@@ -6,7 +6,6 @@ IE9+
 Any others not listed here but have implemented the Navigation Spec will work too
 ***
 
-<img src='https://client-side-timing.googlecode.com/files/cst_screencap.png'/>
 
 
 To install disabled by default
